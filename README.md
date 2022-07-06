@@ -15,7 +15,7 @@ Clone o repositório
   git clone https://github.com/daniloalvescosta/movies_api_with_rails.git
 ```
 
-Vá para a pasta do repositório
+Vá para a pasta criada
 
 ```bash
   cd movies_api_with_rails
