@@ -27,7 +27,13 @@ Execute o Bundle
   bundle install
 ```
 
-Importe os filmes do arquivo CSV
+Execute a migração do banco de dados
+
+```bash
+  rails db:migrate
+```
+
+E importe os filmes do arquivo CSV
 
 ```bash
   rails import:movies
